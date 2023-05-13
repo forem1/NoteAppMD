@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="editor_note_placeholder">Введите текст...</string>
+    <string name="editor_notesList">Список заметок</string>
+    <string name="editor_search">Поиск</string>
+    <string name="editor_addNote">Добавить заметку</string>
+    <string name="editor_previousNote">Предыдущая заметка</string>
+    <string name="editor_nextNote">Следующая заметка</string>
+    <string name="menu_save">Сохранить</string>
+    <string name="menu_open">Открыть</string>
+    <string name="editor_name_placeholder">Название</string>
+    <string name="add_widget">Добавить виджет</string>
+    <string name="app_widget_description">Последняя заметка</string>
+</resources>

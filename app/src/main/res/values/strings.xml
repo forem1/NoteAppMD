@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">NoteApp</string>
+    <string name="editor_note_placeholder">Enter text...</string>
+    <string name="editor_notesList">Notes list</string>
+    <string name="editor_search">Search</string>
+    <string name="editor_addNote">Add note</string>
+    <string name="editor_previousNote">Previous note</string>
+    <string name="editor_nextNote">Next note</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_open">Open</string>
+    <string name="editor_name_placeholder">Name</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">Display last note</string>
+</resources>
